@@ -1,0 +1,40 @@
+/*Comment*/
+
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: 900;
+}
+
+h2 {
+    font-size: 36px;
+    font-weight: 400;
+    color: #808080
+}
+
+h1,
+h2 {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+P {
+    background-color: rgb(128, 128, 128);
+    color: #e3e3e3;
+    font-size: 18px;
+    font-weight: 400;
+    text-align: justify;
+    margin-top: 29px;
+    padding-top: 29px;
+    padding-right: 52px;
+    padding-bottom: 43px;
+    padding-left: 52px;
+}
+
+.container {
+    max-width: 900px;
+    margin: 0 auto 0 auto;
+}
